@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-Hi there 👋
 I'm Vinicius Gomes. My mainly background is:
 
 Frontend development Angular, VanillaJS
