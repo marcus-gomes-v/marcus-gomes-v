@@ -22,7 +22,7 @@ I'm Vinicius Gomes. My mainly background is:
 - 👯 I’m looking to collaborate on 
   - Projects to help people to learn development  
 - 🤔 I’m looking for help with 
-  - Improvement of TDD abilities  
+  - TDD
 - 💬 Ask me about 
   - Javascript Development
   - HTML, CSS
