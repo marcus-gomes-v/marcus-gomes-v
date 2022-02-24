@@ -2,11 +2,11 @@
 
 I'm Vinicius Gomes. My mainly background is:
 
-Frontend development Angular, VanillaJS
-Backend development NodeJS, Loopback
-Firebase
-AWS
-MongoDB
+- Frontend development Angular, VanillaJS
+- Backend development NodeJS, Loopback
+- Firebase
+- AWS
+- MongoDB
 
 Enthusiast of:
 
