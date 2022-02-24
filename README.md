@@ -8,12 +8,7 @@ I'm Vinicius Gomes. My mainly background is:
 - AWS
 - MongoDB
 
-Enthusiast of:
-
-Blockchain
-Entrepreneurship
-Open source lover
-
+---
 
 - 🔭 I’m currently working on 
   - [Latino Europeu](https://latinoeuropeu.web.app/) An application to help people from Latin America to emigrate to Europe.
