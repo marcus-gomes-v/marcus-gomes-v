@@ -5,7 +5,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-gomesvini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesvini/)](https://www.linkedin.com/in/gomesvini/)
 [![Instagram Badge](https://img.shields.io/badge/-codandomundo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/codandomundo/)](https://instagram.com/codandomundo)
-[![Twitter Badge](https://img.shields.io/badge/-gom3sm4rcus-lightblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/gom3sm4rcus)](https://twitter.com/gom3sm4rcus)
+[![Twitter Badge](https://img.shields.io/badge/-gom3sm4rcus-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gom3sm4rcus)](https://twitter.com/gom3sm4rcus)
 [![Blogspot Badge](https://img.shields.io/badge/-@decriptando-c14438?style=flat-square&logo=Blogger&logoColor=white&link=https://decriptando.blogspot.com/)](mailto:kanna6501@gmail.com)
 
 
