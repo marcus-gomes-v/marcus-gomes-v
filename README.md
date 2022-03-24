@@ -1,38 +1,35 @@
-### Hi there 👋
+## Mi piacerebbe vederti qui! <img src="https://raw.githubusercontent.com/viniciusgomes/viniciusgomes/master/wave.gif" width="30px">
 
-I'm Vinicius Gomes. My mainly background is:
+I am Vinicius Gomes, people call me Marcus(it's my first name), currently working at [Bolttech](https://bolttech.io/). I am a tech enthusiast & an open-source advocate. 
+I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-- Frontend development Angular, VanillaJS
-- Backend development NodeJS, Loopback
-- Firebase
-- AWS
-- MongoDB
+[![Linkedin Badge](https://img.shields.io/badge/-gomesvini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesvini/)](https://www.linkedin.com/in/gomesvini/)
+[![Instagram Badge](https://img.shields.io/badge/-codandomundo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/codandomundo/)](https://instagram.com/codandomundo)
+[![Twitter Badge](https://img.shields.io/badge/-gom3sm4rcus-lightblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/gom3sm4rcus)](https://twitter.com/gom3sm4rcus)
+[![Blogspot Badge](https://img.shields.io/badge/-@decriptando-c14438?style=flat-square&logo=Blogger&logoColor=white&link=https://decriptando.blogspot.com/)](mailto:kanna6501@gmail.com)
 
----
 
-- 🔭 I’m currently working on 
-  - [Latino Europeu](https://latinoeuropeu.web.app/) An application to help people from Latin America to emigrate to Europe.
-  - [Uhub](https://uhub.team/) A platform to help companies and organizations manage online events
-- 🌱 I’m currently learning 
-  - Dynamic Programming
-  - Vite
-  - Vue
-  - Nest
-  - Next   
-- 👯 I’m looking to collaborate on 
-  - Projects to help people to learn development  
-- 🤔 I’m looking for help with 
-  - TDD
-- 💬 Ask me about 
-  - Javascript Development
-  - HTML, CSS
-  - Backend with Node.js 
-- 📫 How to reach me: 
-  - [Code.Golf](https://code.golf/golfers/viniciusgomes)
-  - [Codingame](https://www.codingame.com/profile/0654eb679a3f1d9019ffd6e1a2f761c36818274)
-  - [Twitter](https://twitter.com/Gom3sM4rcus)
-- ⚡ Fun fact:
-  - I try to create my own node framework based entire in the documentation, with no NPM, no Packages [Midnight](https://github.com/viniciusgomes/Midnight) 
-  - I used to write in blog long time ago [Decriptando](https://decriptando.blogspot.com/)
-  - I have already created a cloud blockchain company for businesses, but after one of our posts, on how to simplify cloud blockchain setup, customers stopped paying our contracts as their own development teams were already able to handle the infrastructure with our free posting guide.[The Post](https://u-engine.blogspot.com/2019/11/tutorial-aws-blockchain-configurar-pre.html)
+## ⚡ Technologies
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=viniciusgomes&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgomes&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=viniciusgomes.viniciusgomes)
