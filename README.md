@@ -1,6 +1,6 @@
 ## Mi piacerebbe vederti qui! <img src="https://raw.githubusercontent.com/viniciusgomes/viniciusgomes/master/wave.gif" width="30px">
 
-I am Vinicius Gomes, people call me Marcus(it's my first name), currently working at [Bolttech](https://bolttech.io/). I am a tech enthusiast & an open-source advocate. 
+I am Vinicius Gomes, people call me Marcus(it's my first name), currently working at UPLink. I am a tech enthusiast & an open-source advocate. 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-gomesvini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesvini/)](https://www.linkedin.com/in/gomesvini/)
