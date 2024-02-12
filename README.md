@@ -32,4 +32,3 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-gomes-v&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-gomes-v&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcus-gomes-v.marcus-gomes-v)
