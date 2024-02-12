@@ -29,7 +29,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=viniciusgomes&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-gomes-v&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgomes&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=viniciusgomes.viniciusgomes)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcus-gomes-v.marcus-gomes-v)
