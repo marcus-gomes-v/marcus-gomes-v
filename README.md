@@ -4,8 +4,6 @@ I am Vinicius Gomes, people call me Marcus(it's my first name), currently workin
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcusgomesv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesvini/)](https://www.linkedin.com/in/marcus-gomes-v/)
-[![Instagram Badge](https://img.shields.io/badge/-codandomundo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/codandomundo/)](https://instagram.com/codandomundo)
-[![Twitter Badge](https://img.shields.io/badge/-gom3sm4rcus-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gom3sm4rcus)](https://twitter.com/gom3sm4rcus)
 [![Blogspot Badge](https://img.shields.io/badge/-@decriptando-c14438?style=flat-square&logo=Blogger&logoColor=white&link=https://decriptando.blogspot.com/)](https://decriptando.blogspot.com/)
 
 
