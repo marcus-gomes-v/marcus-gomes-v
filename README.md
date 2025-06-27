@@ -1,33 +1,78 @@
-## Mi piacerebbe vederti qui! <img src="https://raw.githubusercontent.com/viniciusgomes/viniciusgomes/master/wave.gif" width="30px">
+## 👋 Welcome, curious builders!
 
-I am Vinicius Gomes, people call me Marcus(it's my first name), currently working at UPLink. I am a tech enthusiast & an open-source advocate. 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+```
+██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ 
+██     ██ ██      ██      ██      ██    ██ ████  ████ ██      
+██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   
+██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██      
+ ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████
+```
 
-[![Linkedin Badge](https://img.shields.io/badge/-marcusgomesv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesvini/)](https://www.linkedin.com/in/marcus-gomes-v/)
+I’m Marcus Gomes Tech builder & Systems thinker. 
+A Rustacean by choice. Solidity by trade. DevOps by instinct.
+
+Currently diving deep into:
+- 🔗 Web3 infra: From smart contracts to cross-chain relayers
+- 🧠 Distributed Systems: Message queues, orchestration, data flows
+- 🐳 DevOps/K8s: Automating everything, securely, in AWS
+- ⚙️ Rust, Node.js & Solidity in production, not toy projects
+
+🚀 I help blockchain protocols and startups go from _zero to mainnet_, and scale with confidence.
+
+🔗 Let’s connect:
+[![Linkedin Badge](https://img.shields.io/badge/-marcusgomesv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-gomes-v/)](https://www.linkedin.com/in/marcus-gomes-v/)
 [![Blogspot Badge](https://img.shields.io/badge/-@decriptando-c14438?style=flat-square&logo=Blogger&logoColor=white&link=https://decriptando.blogspot.com/)](https://decriptando.blogspot.com/)
 
+---
 
-## ⚡ Technologies
+## ⚡ Tech I Use Daily
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+<table>
+  <tr>
+    <th>Languages & Runtimes</th>
+    <th>DevOps & Infra</th>
+    <th>Web3 & Distributed</th>
+  </tr>
+  <tr>
+    <td>
+      
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)  
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat-square&logo=solidity)  
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)  
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-gomes-v&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-gomes-v&hide=TeX&layout=compact)
+</td>
+<td>
+  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes)  
+![Amazon AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)  
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat-square&logo=terraform)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)  
+![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat-square&logo=grafana)
 
-:octocat:
+</td>
+<td>
+
+![Ethereum](https://img.shields.io/badge/-Ethereum-000000?style=flat-square&logo=ethereum)  
+![NEAR Protocol](https://img.shields.io/badge/-NEAR-black?style=flat-square&logo=near)  
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb)  
+
+</td>
+</tr>
+</table>
+
+
+
+---
+
+## 📈 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-gomes-v&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-gomes-v&hide=TeX&layout=compact&theme=radical)
+
+---
+
+🌱 *“Technology is my playground. Distributed systems, my puzzle. Rust and Solidity, my brush.”*  
