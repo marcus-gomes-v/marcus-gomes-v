@@ -73,6 +73,4 @@ Currently diving deep into:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-gomes-v&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-gomes-v&hide=TeX&layout=compact&theme=radical)
 
----
 
-🌱 *“Technology is my playground. Distributed systems, my puzzle. Rust and Solidity, my brush.”*  
